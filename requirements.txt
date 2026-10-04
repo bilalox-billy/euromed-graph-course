@@ -1,0 +1,12 @@
+networkx 
+pyvis 
+spacy 
+nltk 
+wikipedia-api 
+requests 
+pandas 
+jupyterlab
+ipykernel
+matplotlib
+scipy
+scikit-learn
