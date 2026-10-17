@@ -1,0 +1,5 @@
+MERGE (:Product {productId: 'P001', name: 'MacBook Pro 14"',  price: 1999.00})
+MERGE (:Product {productId: 'P002', name: 'Sony WH-1000XM5', price:  349.99})
+MERGE (:Product {productId: 'P003', name: 'Dell XPS 15',     price: 1799.00})
+MERGE (:Product {productId: 'P004', name: 'Bose QC45',       price:  279.99})
+MERGE (:Product {productId: 'P005', name: 'USB-C Hub 7-in-1',price:   59.99})
