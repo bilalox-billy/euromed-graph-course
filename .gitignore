@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment variables
+.env
+
+session_4/cypher_fundamentals.md
+sessio_4/graph_data_modeling.md
